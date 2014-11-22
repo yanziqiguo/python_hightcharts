@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#! ~/python_highcharts/myDjango/bin python
 import os
 import sys
 
